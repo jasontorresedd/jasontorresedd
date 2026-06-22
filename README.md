@@ -7,4 +7,5 @@ Research interests: _Systematic learning design with AI_, _Cognitive Offloading_
 
 ## Getting in touch
 🌐 **Website+Portfolio**: _in the process of building something new_
+
 👤 **LinkedIn**: [https://www.linkedin.com/in/jasontorresedd/](https://www.linkedin.com/in/jasontorresedd/)
